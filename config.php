@@ -7,7 +7,7 @@ $config = array();
 $config['app_key'] = 'irskotest';
 
 // a secret key to be used during encryption
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'superheslo';
 
 // URL running the proxy app
 //$config['app_url'] = 'https://www.mysampleproxy.com/proxyfolder/';
